@@ -5,7 +5,7 @@ import prodRouter from "./routes/prodRoute.js"
 import userRouter from "./routes/userRoute.js"
 import 'dotenv/config.js'
 import cartRouter from "./routes/cartRoute.js"
-import orderRouter from "./routes/orderroute.js"
+import orderRouter from "./routes/orderRoute.js"
 
 
 
